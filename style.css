@@ -258,7 +258,7 @@ p {
 }
 
 .top_left_cont h2 {
-    font-size: 40px;
+    font-size: 30px;
     color: #FFF;
     line-height: 52px;
     margin: 0 0 26px 0;
@@ -1642,7 +1642,7 @@ div.mc-image {
 }
 .pull-right{
     margin:0px auto;
-    width:50% !important;
+    /* width:50% !important; */
     padding:20px
 }
 .h2text{
