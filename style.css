@@ -1649,6 +1649,17 @@ div.mc-image {
     text-align: left;font-size: 2em;width:100%
 }
 
+.blink_me {
+    animation: blinker 3s linear infinite;
+
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+
 /*
    Media Queries
 --------------------------- */
